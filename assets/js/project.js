@@ -5,6 +5,18 @@ const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
 const projects = [
+   {
+    title: "Chicago Transit Authority Data Analysis",
+    cardImage: "assets/images/project-page/cta.svg",
+    Previewlink: "",
+    Githublink: "https://github.com/pranitkotkar/Chicago_Transit_Authority_Data_Analysis",
+  },
+   {
+    title: "4-Tier Database Management System",
+    cardImage: "assets/images/project-page/dbms.png",
+    Previewlink: "",
+    Githublink: "https://github.com/pranitkotkar/4_Tier_Database_Management_System",
+  },
   {
     title: "Speech to Sign Language Translator",
     cardImage: "assets/images/project-page/sign.jpeg",
