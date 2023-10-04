@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/2.jpeg",
     place: "MedTourEasy",
     time: "(June, 2021)",
-    desp: "<li>Trained to deploy machine learning models on the google cloud platform.</li> <li>Worked on various projects like building and deploying a model to an AI platform for serving, using What-If Tool with an image recognition model, identifying bias in mortgage data using What-If Tool, and comparing models using What-If Tool to identify potential bias.</li> ",
+    desp: "<li>Received training in BigQuery, Cloud Speech AI, Cloud Natural Language API, AI Platform, Dataflow, Cloud Dataprep by Trifacta, Dataproc, and Video Intelligence API.</li> <li>Leveraged Google Cloud capabilities to extract, process, and analyze complex healthcare data, producing insights that could be put into practise and improving patient care plans.</li> ",
   },
   {
     title: "Data Science and Business Analytics Intern",
