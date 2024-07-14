@@ -7,7 +7,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Data Science Apprentice",
-    cardImage: "assets/images/experience-page/2.jpeg",
+    cardImage: "assets/images/experience-page/rb.png",
     place: "R & B Infra Project Pvt. Ltd.",
     time: "(August, 2021 - July, 2022)",
     desp: "<li>Led the gathering and initial processing of large-scale finance and inventory data, employing Python for data modeling and data mining tasks and supporting budget planning, sales development, and financial planning initiatives.</li> <li>Developed and implemented ETL pipelines on AWS, leveraging Excel for data validation and PowerPoint for presenting results, enhancing data accessibility and accuracy for strategic decision-making across business development efforts.</li> <li>Incorporated Python for regression modeling and time series forecasting, collaborating with teams to achieve a 12% efficiency boost in inventory management and supporting financial planning and business development strategies.</li> <li>Collaborated with cross-functional teams, utilizing Excel for data analysis and PowerPoint for presentations and reports.</li> <l1>Designed and deployed interactive dashboards in Tableau, integrating Excel data for real-time visualization of operational metrics and enhancing data-driven decision-making processes.</li>",
