@@ -5,6 +5,11 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "Microsoft Certified: Azure Data Fundamentals",
+    cardImage: "assets/images/education-page/azure.png",
+    moocLink: "https://learn.microsoft.com/en-us/users/pranitgorakhnathkotkar-7320/credentials/54f121516124b54b",
+  },
+  {
     title: "Python for Everybody Specialization",
     cardImage: "assets/images/education-page/coursera2.png",
     moocLink: "https://www.coursera.org/account/accomplishments/specialization/certificate/984RHLSF65KA",
