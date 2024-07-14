@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/2.jpeg",
     place: "MedTourEasy",
     time: "(June - July, 2021)",
-    desp: "<li>Received training in BigQuery, Cloud Speech AI, Cloud Natural Language API, AI Platform, Dataflow, Cloud Dataprep by Trifacta, Dataproc, and Video Intelligence API.</li> <li>Leveraged Google Cloud capabilities to extract, process, and analyze complex healthcare data, producing insights that could be put into practise and improving patient care plans.</li> ",
+    desp: "<li>Leveraged expertise in Google Cloud technologies to enhance healthcare data analysis and integration capabilities.</li> <li>Collaborated with healthcare teams to analyze healthcare data, resulting in a 15% reduction in treatment planning time.</li> <li>Incorporated Power BI dashboards to present data-driven insights, raising treatment planning efficiency by 20%.</li> <li>Implemented automated data pipelines using Google Cloud technologies, thereby improving operational efficiency.</li>",
   },
   {
     title: "Data Science and Business Analytics Intern",
